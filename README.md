@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on [clone of naukari.com ](https://github.com/lokesh-patidar/punchy-car-5123)
 
-🌍 I'm based in Delhi, India
+🌍 I'm based in Madhya Pradesh, India
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
@@ -24,8 +24,7 @@
 
 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <p><a href="">My Portfolio </a></p>
 
 
