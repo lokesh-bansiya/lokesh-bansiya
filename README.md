@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Lokesh Patidar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Lokesh Patidar 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -19,7 +19,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=lokesh-patidar&theme=darkhub)](https://github.com/lokesh-patidar/github-profile-trophy)
 
 
-🔭 I’m currently working on [clone of naukari.com ](https://github.com/lokesh-patidar/punchy-car-5123)
+🔭 I’m currently exploring and polishing my skills
 
 🌍 I'm based in Madhya Pradesh, India
 
@@ -44,8 +44,7 @@
 
 <br/>
 
-# 💻 Tech Stack
-
+<h2 align="center">💻 Tech Stack</h2>
  <div align="center"><h3 align="center">Frontend / Backend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
@@ -83,14 +82,37 @@
 </div>
 
 <br/>
+<br/>
+<br/>
+<br/>
 
-# 📊 GitHub Stats
+<h2 align="center">📊 My Github Stats</h2>
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lokesh-patidar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-patidar&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>                                                                                                                                              
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-patidar&show_icons=true&locale=en&layout=compact" alt="lokesh-patidar" /></p>
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="lokesh-patidar" /></a>
+    </p>                                                                 
+ <h6 align="center"> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en" alt="lokesh-patidar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-patidar&" alt="lokesh-patidar" /></p>
+<br/>
+<br/>
 
-  
+  <br/>
+
+<a href="https://github.com/lokesh-patidar/github-readme-activity-graph"><img alt="lokesh-patidar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lokesh-patidar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
