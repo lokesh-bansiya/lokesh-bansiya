@@ -34,7 +34,7 @@
 
 📧 Email - bansiyalokesh29988@gmail.com
 
-📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
+📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
 
 
 <p><a href="">My Portfolio </a></p>
