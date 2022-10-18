@@ -22,7 +22,7 @@
 
 🔭 I’m currently exploring and polishing my skills
 
-🌍 I'm based in Madhya Pradesh, India
+🌍 I'm basically from Madhya Pradesh, India
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
