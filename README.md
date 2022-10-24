@@ -26,7 +26,7 @@
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfilio [Click here]()
+👨‍💻 My Portfilio [Click here](https://lokesh-patidar.github.io/)
 
 👀 My Github Repositories [Click here](https://github.com/lokesh-patidar?tab=repositories)
 
@@ -37,7 +37,7 @@
 📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
 
 
-<p><a href="">My Portfolio </a></p>
+<p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
 
 
 ## 🌐 Socials
