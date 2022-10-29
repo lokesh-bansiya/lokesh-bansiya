@@ -109,6 +109,13 @@
     </p>                                                                 
  <h6 align="center"> 
 
+<br/>
+<br/>
+  
+<p align="center">
+<a href="https://github.com/lokesh-patidar"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokesh-patidar&theme=dracula" />
+</span></a> </p>
 
 <br/>
 <br/>
