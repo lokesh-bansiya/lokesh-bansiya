@@ -17,7 +17,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lokesh-patidar&theme=darkhub)](https://github.com/lokesh-patidar/github-profile-trophy)
+<h3 align="left">Git profile Trophies:</h3>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lokesh-patidar" alt="lokesh-patidar" />
+  </a> 
+</p>
 
 
 🔭 I’m currently exploring and polishing my skills
