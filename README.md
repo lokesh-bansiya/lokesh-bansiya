@@ -33,6 +33,8 @@
 
 👨‍💻 My Portfilio [Click here](https://lokesh-patidar.github.io/)
 
+
+
 👀 My Github Repositories [Click here](https://github.com/lokesh-patidar?tab=repositories)
 
 🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled-components.
@@ -40,7 +42,7 @@
 📧 Email - bansiyalokesh29988@gmail.com
 
 📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
-
+My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
 
 <p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
 
