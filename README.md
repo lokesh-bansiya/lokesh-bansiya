@@ -44,6 +44,9 @@
 📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
 My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
 
+HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
+
+
 <p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
 
 
