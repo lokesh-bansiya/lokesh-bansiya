@@ -41,7 +41,8 @@
 
 📧 Email - bansiyalokesh29988@gmail.com
 
-📄 Know about my skills  [Resume](https://drive.google.com/file/d/1LQC4qMoLclFHtr-zcAokIuGxgoP59AU-/view?usp=sharing) 
+📄 Know about my skills  [Resume](https://1drv.ms/b/s!AiSQDUviI7Fkay31qnyUOYIVxt4?e=kX6eyv) 
+
 My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
 
 HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
