@@ -41,7 +41,7 @@
 
 📧 Email - bansiyalokesh29988@gmail.com
 
-📄 Know about my skills  [Resume](https://1drv.ms/b/s!AiSQDUviI7Fkay31qnyUOYIVxt4?e=kX6eyv) 
+📄 Know about my skills  [Resume](https://onedrive.live.com/?authkey=%21AC31qnyUOYIVxt4&cid=64B123E24B0D9024&id=64B123E24B0D9024%21107&parId=64B123E24B0D9024%21106&o=OneUp) 
 
 My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
 
