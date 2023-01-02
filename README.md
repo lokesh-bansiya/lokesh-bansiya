@@ -126,17 +126,17 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
       </p>      
      <br/>
    <p align="center">
-<!--     <a href="https://github.com/lokesh-patidar/github-readme-streak-stats">
-  <img alt="lokesh-patidar streak" src="https://streak-stats.demolab.com/?user=lokesh-patidar&theme=neon-dark&hide_border=true&bg_color=black&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
-  </a> -->
+    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats">
+  <img alt="lokesh-patidar streak" src="https://streak-stats.demolab.com/?user=lokesh-patidar&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
+  </a>
   
 </p>                                                                                                                                              
-
+<!-- 
 <div align="center">
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh-patidar&theme=neon-dark&hide_border=true&bg_color=black&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
    
-    <div>
+    <div> -->
   <br/>
       
         
