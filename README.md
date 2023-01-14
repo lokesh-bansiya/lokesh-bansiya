@@ -98,11 +98,11 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 
    <br/>   
     <p align="center">      
-  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color" /></a>
+  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats">
+    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats-sigma-five">
   <img alt="lokesh-patidar streak" src="https://streak-stats.demolab.com/?user=lokesh-patidar&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
   </a>
   
@@ -112,7 +112,7 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
   <br/>
      <p align="center">                                                                                                 
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-patidar" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-patidar" />
     
     
  <h6 align="center"> 
