@@ -111,7 +111,6 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
   <br/>
   <br/>
      <p align="center">                                                                                                 
-<!--     <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="lokesh-patidar" /></a> -->
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-patidar" />
     
