@@ -98,7 +98,7 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 
    <br/>   
     <p align="center">      
-<!--   <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color" /></a>
       </p>      
      <br/>
    <p align="center">
