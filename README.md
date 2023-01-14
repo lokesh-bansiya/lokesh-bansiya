@@ -98,7 +98,7 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
 
    <br/>   
     <p align="center">      
-  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--   <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
       </p>      
      <br/>
    <p align="center">
@@ -111,8 +111,11 @@ HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="lokesh-patidar" /></a>
-    </p>                                                                 
+<!--     <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="lokesh-patidar" /></a> -->
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-patidar" />
+    
+    
  <h6 align="center"> 
 
 <br/>
