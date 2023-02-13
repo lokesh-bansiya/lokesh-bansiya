@@ -43,6 +43,11 @@
 
 📄 Know about my skills  [Resume](https://onedrive.live.com/?authkey=%21AC31qnyUOYIVxt4&cid=64B123E24B0D9024&id=64B123E24B0D9024%21107&parId=64B123E24B0D9024%21106&o=OneUp) 
 
+
+ [Resume](https://1drv.ms/b/s!AiSQDUviI7FkaxKlaRjkZfvl3nM?e=TZ8Gho) 
+
+
+
 My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
 
 HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
