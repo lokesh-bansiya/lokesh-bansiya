@@ -42,20 +42,7 @@
 
 📧 Email - bansiyalokesh29988@gmail.com
 
-📄 Know about my skills  [Resume](https://1drv.ms/b/s!AiSQDUviI7FkaxKlaRjkZfvl3nM?e=RKg89O) 
-
-
- [Resume](https://1drv.ms/b/s!AiSQDUviI7FkaxKlaRjkZfvl3nM?e=RKg89O) 
-
-
-
-My Replit Profile: [Click here](https://replit.com/@LokeshBansiya)
-
-HackerRank: [Click here](https://www.hackerrank.com/bansiyalokesh291)
-
-
 <p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-patidar-aa45a0236/) 
