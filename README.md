@@ -122,10 +122,8 @@
 <br/>
 
   <br/>
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar">
-()](https://github.com/lokesh-patidar/github-readme-activity-graph)
   
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar" alt="lokesh-patidar" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar&theme=github-compact" alt="lokesh-patidar" />
     
 <br/>
 <br/>
