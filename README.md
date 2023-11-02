@@ -122,7 +122,7 @@
 <br/>
 
   <br/>
-[![Lokesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar)](https://github.com/lokesh-patidar/github-readme-activity-graph)
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar">
 <br/>
 <br/>
 
