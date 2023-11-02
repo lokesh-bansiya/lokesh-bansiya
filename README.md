@@ -13,7 +13,9 @@
 
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
   
-<h3>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h3>
+<h3>
+  I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.
+</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
