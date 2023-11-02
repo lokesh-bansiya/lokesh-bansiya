@@ -122,9 +122,7 @@
 <br/>
 
   <br/>
-
-<a href="https://github.com/lokesh-patidar/github-readme-activity-graph"><img alt="lokesh-patidar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=lokesh-patidar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar)](https://github.com/lokesh-patidar/github-readme-activity-graph)
 <br/>
 <br/>
 
