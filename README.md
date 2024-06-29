@@ -14,16 +14,16 @@
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
   
 <h3>
-  I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.
+  I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready to learn new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.
 </h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-patidar&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-patidar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh-bansiya&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-bansiya" /> </p>
 
 <h3 align="left">Git profile Trophies:</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lokesh-patidar" alt="lokesh-patidar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lokesh-bansiya" alt="lokesh-bansiya" />
   </a> 
 </p>
 
@@ -32,15 +32,15 @@
 
 🌍 I'm basically from Madhya Pradesh, India
 
-⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
+⚛️ Some technologies that I love working with include MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfilio [Click here](https://lokesh-patidar.github.io/)
+👨‍💻 My Portfolio [Click here](https://lokesh-patidar.github.io/)
 
 
 
 👀 My Github Repositories [Click here](https://github.com/lokesh-patidar?tab=repositories)
 
-🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled-components.
+🚀 I have learned a couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled components.
 
 📧 Email - bansiyalokesh29988@gmail.com
 
@@ -93,12 +93,12 @@
 
    <br/>   
     <p align="center">      
-  <a href="https://github.com/lokesh-patidar/github-readme-stats"><img alt="lokesh-patidar Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokesh-patidar&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color" /></a>
+  <a href="https://github.com/lokesh-bansiya/github-readme-stats"><img alt="lokesh-bansiya Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokesh-bansiya&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/lokesh-patidar/github-readme-streak-stats-sigma-five">
-  <img alt="lokesh-patidar streak" src="https://streak-stats.demolab.com/?user=lokesh-patidar&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
+    <a href="https://github.com/lokesh-bansiya/github-readme-streak-stats-sigma-five">
+  <img alt="lokesh-bansiya streak" src="https://streak-stats.demolab.com/?user=lokesh-bansiya&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
   </a>
   
 </p>                                                                                                                                              
@@ -107,7 +107,7 @@
   <br/>
      <p align="center">                                                                                                 
   
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokesh-patidar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-patidar" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokesh-bansiya&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-bansiya" />
     
     
  <h6 align="center"> 
@@ -116,8 +116,8 @@
 <br/>
   
 <p align="center">
-<a href="https://github.com/lokesh-patidar"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokesh-patidar&theme=dracula" />
+<a href="https://github.com/lokesh-bansiya"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokesh-bansiya&theme=dracula" />
 </span></a> </p>
 
 <br/>
@@ -125,7 +125,7 @@
 
   <br/>
   
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-patidar&theme=github-compact" alt="lokesh-patidar" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-bansiya&theme=github-compact" alt="lokesh-bansiya" />
     
 <br/>
 <br/>
