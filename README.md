@@ -34,17 +34,17 @@
 
 ⚛️ Some technologies that I love working with include MERN stack, Typescript & Web Testing.
 
-👨‍💻 My Portfolio [Click here](https://lokesh-patidar.github.io/)
+👨‍💻 My Portfolio [Click here](https://lokesh-bansiya.github.io/)
 
 
 
-👀 My Github Repositories [Click here](https://github.com/lokesh-patidar?tab=repositories)
+👀 My Github Repositories [Click here](https://github.com/lokesh-bansiya?tab=repositories)
 
-🚀 I have learned a couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled components.
+🚀 I have learned skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, Bootstrap & styled components.
 
 📧 Email - bansiyalokesh29988@gmail.com
 
-<p><a href="https://lokesh-patidar.github.io/">My Portfolio </a></p>
+<p><a href="https://lokesh-bansiya.github.io/">My Portfolio </a></p>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-patidar-aa45a0236/) 
