@@ -14,7 +14,7 @@
 <h3 align="center" an aspiring Full Stack MERN Developer from India.</h3>
   
 <h3>
-  I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and is always ready to learn new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.
+  I'm a passionate Full Stack Web developer skilled in MERN stack who likes experimenting and is always ready to learn new things. I focus on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have passionately combined good design, technology, and innovation in all my projects.
 </h3>
 
 
@@ -35,6 +35,7 @@
 ⚛️ Some technologies that I love working with include MERN stack, Typescript & Web Testing.
 
 👨‍💻 My Portfolio [Click here](https://lokesh-bansiya.github.io/)
+My Resume [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR)
 
 
 
