@@ -123,11 +123,8 @@ My Resume [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR
 
 <br/>
 <br/>
-
-  <br/>
-  
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-bansiya&theme=github-compact" alt="lokesh-bansiya" />
-    
+<br/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=&theme=github-compact" alt="lokesh-bansiya" />  
 <br/>
 <br/>
 
