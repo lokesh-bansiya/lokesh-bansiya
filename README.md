@@ -105,21 +105,18 @@ My Resume [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR
 </p>                                                                                                                                              
     
   <br/>
-  <br/>
-     <p align="center">                                                                                                 
-  
+  <br/>                                                                                               
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokesh-bansiya&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="lokesh-bansiya" />
-    
-    
- <h6 align="center"> 
-
 <br/>
 <br/>
   
 <p align="center">
-<a href="https://github.com/lokesh-bansiya"><span>
+<a href="https://github.com/lokesh-bansiya">
+<span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokesh-bansiya&theme=dracula" />
-</span></a> </p>
+</span>
+</a> 
+</p>
 
 <br/>
 <br/>
