@@ -101,7 +101,7 @@ My Resume [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR
     <a href="https://github.com/lokesh-bansiya/github-readme-streak-stats-sigma-five">
   <img alt="lokesh-bansiya streak" src="https://streak-stats.demolab.com/?user=lokesh-bansiya&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
   </a>
-  
+  <div align="center">
 </p>                                                                                                                                              
     
   <br/>
@@ -124,4 +124,4 @@ My Resume [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-bansiya&theme=github-compact" alt="lokesh-bansiya" />  
 <br/>
 <br/>
-
+</div>
