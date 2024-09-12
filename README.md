@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lokesh Patidar</h1>
-<!-- ![Combined Logo](https://github.com/user-attachments/assets/65d56e05-b2df-4c01-9fca-ecabfe0871eb) -->
+![Combined_Horizontal_L-Inc_Coastal](https://github.com/user-attachments/assets/120a326c-ec59-4a4e-93f4-c1c0a7bd6c0e)
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
