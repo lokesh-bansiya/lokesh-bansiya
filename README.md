@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lokesh Patidar</h1>
-![Combined_Horizontal_L-Inc_Coastal](https://github.com/user-attachments/assets/120a326c-ec59-4a4e-93f4-c1c0a7bd6c0e)
+<!-- ![Combined_Horizontal_L-Inc_Coastal](https://github.com/user-attachments/assets/120a326c-ec59-4a4e-93f4-c1c0a7bd6c0e) -->
 
 
 <div align="center">
