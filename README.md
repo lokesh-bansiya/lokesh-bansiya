@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lokesh Patidar</h1>
-<!-- ![Combined_Horizontal_L-Inc_Coastal](https://github.com/user-attachments/assets/120a326c-ec59-4a4e-93f4-c1c0a7bd6c0e) -->
+![accpal-logo-for-emails](https://github.com/user-attachments/assets/9a78fc63-379d-4401-80b9-c6413ccb3b23)
 
 
 <div align="center">
