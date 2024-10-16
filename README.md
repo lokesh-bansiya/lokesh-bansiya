@@ -4,17 +4,6 @@
 <!-- ![lockhat-logo](https://github.com/user-attachments/assets/3f4de3e3-569c-4603-b830-185994df1069) -->
 
 
-
-
-
-<!-- ![lockhat-logo-1](https://github.com/user-attachments/assets/d87026bb-0553-4ecd-81c8-ec2c661046d5)  -->
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
