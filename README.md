@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Lokesh Patidar</h1>
 <!-- ![accpal-logo-for-emails](https://github.com/user-attachments/assets/9a78fc63-379d-4401-80b9-c6413ccb3b23) -->
 <!--   ![accpal_logo](https://github.com/user-attachments/assets/4dafa83a-aa7a-4620-8833-17ef4c65871a) -->
+<!-- ![unnamed](https://github.com/user-attachments/assets/5e0369c8-369c-418d-9b6a-7b0569116383) -->
+
 
 
 <div align="center">
