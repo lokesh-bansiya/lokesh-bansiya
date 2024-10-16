@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lokesh Patidar</h1>
 <!-- ![accpal-logo-for-emails](https://github.com/user-attachments/assets/9a78fc63-379d-4401-80b9-c6413ccb3b23) -->
-  ![accpal_logo](https://github.com/user-attachments/assets/4dafa83a-aa7a-4620-8833-17ef4c65871a)
+<!--   ![accpal_logo](https://github.com/user-attachments/assets/4dafa83a-aa7a-4620-8833-17ef4c65871a) -->
 
 
 <div align="center">
