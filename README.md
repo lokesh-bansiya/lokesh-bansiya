@@ -49,7 +49,7 @@
 ⚛️ Some technologies that I love working with include MERN stack, Typescript & Web Testing.
 
 👨‍💻 My Portfolio [Click here](https://lokesh-bansiya.github.io/)
-My Resume [Click here](https://1drv.ms/b/s!ApOh7KBCQqXlxGK7UVPJVHjaHG-4?e=H66ZnR)
+My Resume [Click here](https://1drv.ms/b/c/e5a54242a0eca193/EfMik6XtvAJKpVgcSusDeU0BfrrnZFjrxnsPaCGEMzbTww?e=ew3CSm)
 
 
 
